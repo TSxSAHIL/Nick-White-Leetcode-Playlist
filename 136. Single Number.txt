@@ -8,4 +8,4 @@ class Solution {
     }
 }
 
-//
+// Used XOR here 
